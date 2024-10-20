@@ -13,6 +13,18 @@ This application provides a place to take notes easily with PyQt5.
 
 ## Installing
 
+1.  Clone the repository:
+
+```bash
+git clone https://github.com/Mali03/basic-note-app
+```
+
+2.  Navigate to the project directory:
+
+```bash
+cd basic-note-app
+```
+
 ## Used Versions
 ```bash
 Python 3.9.0
