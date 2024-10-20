@@ -25,7 +25,7 @@ git clone https://github.com/Mali03/basic-note-app
 cd basic-note-app
 ```
 
-3.  Install required packages
+3.  Install required package
 ```bash
 pip install pyqt5==5.15.9
 ```
