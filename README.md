@@ -25,6 +25,13 @@ git clone https://github.com/Mali03/basic-note-app
 cd basic-note-app
 ```
 
+3.  Install required packages
+```bash
+pip install pyqt5==5.15.9
+```
+
+4.  Run the "Basic Note App.exe" program or run main.py with python
+
 ## Used Versions
 ```bash
 Python 3.9.0
