@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/oIfH4PG.gif)
 
-This application provides a place to take notes easily with PyQt5.
+This application allows you to take notes easily with PyQt5. Otherwise, I used JSON Database to keep note datas in database.json file.
 
 ## Features
 
@@ -30,13 +30,16 @@ cd basic-note-app
 pip install pyqt5==5.15.9
 ```
 
-4.  Run the "Basic Note App.exe" program or run main.py with python
+4.  Run the "Basic Note App.exe" program or run "main.py" with python
 
 ## Used Versions
 ```bash
 Python 3.9.0
 PyQt5 5.15.9
 ```
+
+## Need Help
+If you need any help contact me on [e-mail](mailto:mehmetaligunalay@gmail.com)
 
 ## License
 
