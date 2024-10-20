@@ -43,7 +43,7 @@ PyQt5 5.15.9
 ```
 
 ## Need Help
-If you need any help contact me on [e-mail](mailto:mehmetaligunalay@gmail.com)
+If you need any help contact me on [e-mail](mailto:mehmetaligunalay@gmail.com). You can also contact me to get .ui formated codes for designing in Qt Designer.
 
 ## License
 
