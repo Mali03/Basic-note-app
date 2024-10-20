@@ -1,2 +1,3 @@
-# take-note-app
-test
+# Basic Note App
+
+## Installing
